@@ -3,4 +3,5 @@ Mini GitHub demo
 
 PLEASE ADD YOUR NAME BELOW:
 
-Jona
+1. Jona
+2. Paul
