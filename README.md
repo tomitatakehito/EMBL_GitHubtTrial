@@ -2,4 +2,7 @@
 Mini GitHub demo
 
 PLEASE ADD YOUR NAME BELOW:
-Carina
+
+1. Carina
+2. Jona
+3. Paul
